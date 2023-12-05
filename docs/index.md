@@ -1,5 +1,5 @@
 ---
-layout: resume
+layout: cv
 title: Ava Johanson's Resume
 ---
 # Ava Johanson
