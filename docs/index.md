@@ -31,7 +31,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 `July 2021 - April 2023`
 __Chick-fil-A__, Gilbert, AZ
 
-# Experienced Customer and Food Services Associate
+### Experienced Customer and Food Services Associate
 
 - Executed food orders both inside restaurant and outside in dual drive-through lanes, including placing, packing, delivering orders, as well as assisting any customer in need.
 - Received frequent recognition and praise from managers, supervisors and customers on work professionalism, meeting work goals, and friendly demeanor.
@@ -46,7 +46,7 @@ unique strategies.
 `June 2019 - July 2019`
 __Christ Greenfield Summer Bible Camp__, Gilbert, AZ
 
-# Camp Counselor
+### Camp Counselor
 
 - Led gospel study and camp related activities with a partner for seven kids from ages six to eleven.
 - Conducted different bible art and physical activities for special needs youth while being 
