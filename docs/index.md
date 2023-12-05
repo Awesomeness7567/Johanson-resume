@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: resume
 title: Ava Johanson's Resume
 ---
 # Ava Johanson
@@ -20,7 +20,7 @@ __Higley High School__, Gilbert, AZ
 
 - Graduated with honors
 
-`2022-2026`
+`Expected 2026`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - Majoring in Web Design and Computer Science
